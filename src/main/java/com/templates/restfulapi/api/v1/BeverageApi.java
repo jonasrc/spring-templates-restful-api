@@ -1,6 +1,6 @@
 package com.templates.restfulapi.api.v1;
 
-import com.templates.restfulapi.domain.data.BeverageDto;
+import com.templates.restfulapi.domain.data.dto.BeverageDto;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.media.Content;
